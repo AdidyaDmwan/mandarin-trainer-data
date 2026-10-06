@@ -286,5 +286,53 @@
     "examplePinyin": "Chúle Yīngyǔ yǐwài, tā hái huì shuō yī kǒu liúlì de Hànyǔ.",
     "exampleMeaning": "Selain bahasa Inggris, dia juga bisa berbicara bahasa Mandarin yang lancar.",
     "day": "Day 14"
+  },
+  {
+    "id": "grammar_25",
+    "grammar": "既然...就...",
+    "pinyin": "jì rán... jiù...",
+    "meaning": "Karena sudah terlanjur / Mengingat bahwa... maka...",
+    "explanation": "Digunakan untuk menyatakan kesimpulan berdasarkan situasi yang sudah terjadi atau sudah diketahui.",
+    "formula": "既然 + Klausa 1， 就 + Klausa 2",
+    "example": "既然你不想去，就别去了。",
+    "examplePinyin": "Jìrán nǐ bù xiǎng qù, jiù bié qù le.",
+    "exampleMeaning": "Karena kamu tidak ingin pergi, ya sudah jangan pergi.",
+    "day": "Day 15"
+  },
+  {
+    "id": "grammar_26",
+    "grammar": "尽管...但是...",
+    "pinyin": "jǐn guǎn... dàn shì...",
+    "meaning": "Meskipun... tetapi...",
+    "explanation": "Digunakan untuk menyatakan pertentangan berdasarkan fakta atau kondisi yang sudah nyata. Berbeda dengan 即使 yang cenderung bersifat hipotetis.",
+    "formula": "尽管 + Klausa 1， 但是 + Klausa 2",
+    "example": "尽管天气很冷，但是他还是去跑步了。",
+    "examplePinyin": "Jǐnguǎn tiānqì hěn lěng, dànshì tā háishì qù pǎobù le.",
+    "exampleMeaning": "Meskipun cuaca sangat dingin, tetapi dia tetap pergi berlari.",
+    "day": "Day 16"
+  },
+  {
+    "id": "grammar_27",
+    "grammar": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "Jika tidak / Kalau tidak",
+    "explanation": "Biasanya digunakan pada awal klausa kedua untuk menunjukkan konsekuensi negatif jika saran atau kondisi pada klausa pertama tidak dilakukan atau tidak terpenuhi.",
+    "formula": "Klausa 1， 否则 + Konsekuensi",
+    "example": "快点走，否则我们会迟到的。",
+    "examplePinyin": "Kuàidiǎn zǒu, fǒuzé wǒmen huì chídào de.",
+    "exampleMeaning": "Cepat jalan, kalau tidak kita akan terlambat.",
+    "day": "Day 17"
+  },
+  {
+    "id": "grammar_28",
+    "grammar": "由于...因此...",
+    "pinyin": "yóu yú... yīncǐ...",
+    "meaning": "Karena... maka...",
+    "explanation": "Bentuk formal dari 因为...所以.... Pola ini sering digunakan dalam bahasa tertulis, artikel, dan soal reading HSK.",
+    "formula": "由于 + Penyebab， 因此 + Akibat",
+    "example": "由于下雪，因此航班取消了。",
+    "examplePinyin": "Yóuyú xià xuě, yīncǐ hángbān qǔxiāo le.",
+    "exampleMeaning": "Karena turun salju, maka penerbangan dibatalkan.",
+    "day": "Day 18"
   }
 ]
